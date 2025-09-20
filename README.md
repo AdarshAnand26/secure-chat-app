@@ -7,4 +7,4 @@ A real-time encrypted chat application built with Java WebSocket server and HTML
 -->Web-based client - no installation required
 -->Multi-user support - multiple people can chat simultaneously
 -->Cross-platform - works on any device with a browser
--->Easy deployment with ngrok tunneling
+-->Deployment with ngrok tunneling
